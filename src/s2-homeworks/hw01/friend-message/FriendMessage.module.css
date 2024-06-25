@@ -6,7 +6,7 @@
 .friendImageAndText {
     display: flex;
     flex-direction: row;
-   align-items: flex;
+   align-items: flex-end;
 }
 
 .friendImageAndText img {
