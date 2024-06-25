@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/B2ndlaw/hws2/static/css/main.ea8310da.css",
-    "main.js": "/B2ndlaw/hws2/static/js/main.cfcc6fc9.js",
-    "static/js/787.66cb4309.chunk.js": "/B2ndlaw/hws2/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/B2ndlaw/hws2/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/B2ndlaw/hws2/index.html",
-    "main.ea8310da.css.map": "/B2ndlaw/hws2/static/css/main.ea8310da.css.map",
-    "main.cfcc6fc9.js.map": "/B2ndlaw/hws2/static/js/main.cfcc6fc9.js.map",
-    "787.66cb4309.chunk.js.map": "/B2ndlaw/hws2/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/b2ndlaw/hws2/static/css/main.ea8310da.css",
+    "main.js": "/b2ndlaw/hws2/static/js/main.0969e0e0.js",
+    "static/js/787.66cb4309.chunk.js": "/b2ndlaw/hws2/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/b2ndlaw/hws2/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/b2ndlaw/hws2/index.html",
+    "main.ea8310da.css.map": "/b2ndlaw/hws2/static/css/main.ea8310da.css.map",
+    "main.0969e0e0.js.map": "/b2ndlaw/hws2/static/js/main.0969e0e0.js.map",
+    "787.66cb4309.chunk.js.map": "/b2ndlaw/hws2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea8310da.css",
-    "static/js/main.cfcc6fc9.js"
+    "static/js/main.0969e0e0.js"
   ]
 }
