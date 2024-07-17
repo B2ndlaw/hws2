@@ -1,48 +1,48 @@
 .button {
-width: Hug (132px)px;
-height: Hug (30px)px;
+width: 167px;
+height: 30px;
 top: 1465px;
 left: 574px;
 padding: 5px 24px 5px 24px;
 gap: 10px;
-border-radius: 3px 0px 0px 0px;
+border-radius: 3px;
 opacity: 0px;
 
 font-family: Montserrat;
 font-size: 14px;
 font-weight: 600;
 line-height: 20px;
-text-align: left;
+text-align: center;
+
+border: none;
 
 color: #ffffff;
 
 }
 
 .disabled {
-    width: Hug (133px)px;
-    height: Hug (30px)px;
+  width: 133px;
     top: 1573px;
     left: 574px;
     padding: 5px 24px 5px 24px;
     gap: 10px;
-    border-radius: 3px 0px 0px 0px;
+  
     opacity: 0.5px;
     
     background-color: #004D99;
 
-    color: #002E5C;
+    color: grey;
 
 
 }
 
 .secondary {
-width: Hug (176px)px;
-height: Hug (30px)px;
+
 top: 1622px;
 left: 574px;
 padding: 5px 24px 5px 24px;
 gap: 10px;
-border-radius: 3px 0px 0px 0px;
+
 opacity: 0px;
 
 border: 1px solid #0066CC;
@@ -53,13 +53,12 @@ color: #0066CC;
 
 .default {
 
-width: Hug (132px)px;
-height: Hug (30px)px;
+
 top: 1465px;
 left: 574px;
 padding: 5px 24px 5px 24px;
 gap: 10px;
-border-radius: 3px 0px 0px 0px;
+
 opacity: 0px;
 background-color: #0066CC;
 
@@ -67,13 +66,12 @@ background-color: #0066CC;
 }
 
 .red {
-width: Hug (129px)px;
-height: Hug (30px)px;
+
 top: 1519px;
 left: 576px;
 padding: 5px 24px 5px 24px;
 gap: 10px;
-border-radius: 3px 0px 0px 0px;
+
 opacity: 0px;
 
 background-color: #CC1439;
