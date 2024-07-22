@@ -1,25 +1,58 @@
 .sidebar {
+    background-color: rgba(255, 255, 255, 0.949);
+    width: 15vw;
+    position: absolute;
+    height: 100vh;
+    top:0;
+    z-index: 99999;
+    
 }
 
 .sidebar.open {
+    background-color: red;
 }
 
 .background {
+    background-color:rgba(0, 0, 0, 0.255);
 }
 
 .nav {
+    padding-top: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 30vh;
+
+   
+        
+
 }
 
 .nav a {
+  text-decoration: none;
+    margin: 0 auto;
+    color: rgb(0, 0, 0);
+    
 }
 
 .nav a:hover {
+color: rgb(83, 206, 236)
 }
 
 .nav a.active {
+
+    text-decoration:underline;
+    color: rgb(11, 70, 146)
 }
 .close {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    border: none;
+    background-color: transparent;
+
 }
 
 .close img {
+    cursor: pointer;
 }
