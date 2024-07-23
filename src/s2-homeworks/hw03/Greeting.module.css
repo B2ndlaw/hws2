@@ -1,7 +1,9 @@
 .greetingForm {
+    padding: 50px 70px;;
 }
 
 .inputAndButtonContainer {
+    padding-top:10px;
 }
 
 .error {
@@ -11,6 +13,7 @@
 .input {
     border-radius: 5px;
     border: 1px solid black;
+ 
 }
 
 .input:focus {
@@ -23,19 +26,27 @@
 }
 
 .button {
+    margin-top: 10px;
+    width: 70px;
+    border: 1px solid blue;
+    border-radius: 5px;
+  
 }
 
 .button:focus {
 }
 
 .button:active {
+    color: blue;
 }
 
 .button:disabled {
 }
 
 .text {
+    
 }
 
 .greeting {
+    margin-top: 10px;
 }

@@ -1,15 +1,17 @@
 .sidebar {
+
+    display: none;
+   
+}
+
+.sidebar.open {
     background-color: rgba(255, 255, 255, 0.949);
     width: 15vw;
     position: absolute;
     height: 100vh;
     top:0;
     z-index: 99999;
-    
-}
-
-.sidebar.open {
-    background-color: red;
+    display: block;
 }
 
 .background {

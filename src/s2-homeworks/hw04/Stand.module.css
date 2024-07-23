@@ -2,13 +2,14 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 70px 50px;
+    padding: 50px 70px;
 }
 
 .inputs {
     display: flex;
     flex-direction: column;
     gap: 48px;
+  
 }
 
 .buttons {
